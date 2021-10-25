@@ -6,7 +6,7 @@
 
 ## Table of contents 
 
-- [Goal](#Our Goal)
+- [Our Goal](#Our Goal)
 - [Create](#What you will create)
 - [learn](#What you will learn)
 
