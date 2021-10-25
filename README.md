@@ -6,10 +6,9 @@
 
 ## Table of contents 
 
-- [Goal](##Our Goal)
-- [Create](##What you will create)
-- [learn](##What you will learn)
-- [Footer](#End Banner)
+- [Goal](#Our Goal)
+- [Create](#What you will create)
+- [learn](#What you will learn)
 
 
 ## Our Goal
