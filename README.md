@@ -5,7 +5,7 @@
 
 ## Table of contents 
 
-- [Screenshots](#Our)
+- [Goal](#Our Goal)
 - [leanr](#What you will create)
 - [create](#What you will learn)
 
