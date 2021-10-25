@@ -5,9 +5,9 @@
 
 ## Table of contents 
 
-- [Goal](#Our)
-- [create](#What)
-- [learn](#What you will learn)
+- [Our Goal](#Our-Goal)
+- [what you will create](#What-you-will-create)
+- [what you will learn](#What-you-will-learn)
 
 ## Our Goal
 
