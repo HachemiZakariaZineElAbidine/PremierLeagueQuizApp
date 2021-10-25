@@ -30,11 +30,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
-
-
 [Back to Top   :arrow_up:](#table-of-contents)
-
-
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
